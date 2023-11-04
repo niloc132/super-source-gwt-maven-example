@@ -41,6 +41,7 @@
         <configuration>
           <moduleName>com.company.ColorWeb</moduleName>
           <moduleShortName>${module.toLowerCase()}</moduleShortName>
+          <relocateSuperSource>true</relocateSuperSource>
         </configuration>
       </plugin>
     </plugins>

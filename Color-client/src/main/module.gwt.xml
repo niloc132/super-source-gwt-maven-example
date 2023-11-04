@@ -9,4 +9,6 @@
 
   <!-- Only support recent browsers -->
   <set-property name="user.agent" value="gecko1_8,safari" />
+
+  <super-source path="super"/>
 </module>
